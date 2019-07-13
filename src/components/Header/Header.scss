@@ -1,0 +1,19 @@
+#header{
+    background-color: #df476a;
+    position: relative;
+    z-index: 1;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 20px 10vw;
+    .logo{
+        a{
+            display: block;
+            background: url('./fave.svg') center center no-repeat;
+            height: 80px;
+            width: 200px;
+            text-indent: -999px;
+        }
+    }
+}
